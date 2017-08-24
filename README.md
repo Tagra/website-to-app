@@ -1,6 +1,6 @@
 Website to app
 ====
-[AppStrand.com](https://www.appstrand.com) provides a simple way to convert website to app without coding.
+AppStrand provides a simple way to [convert website to app](https://www.appstrand.com)  without coding.
 
 Convert your existing website to application for Android in no time.
 Services convertng website to mobile app free usually injects javascript or adverts. We dont do this.
